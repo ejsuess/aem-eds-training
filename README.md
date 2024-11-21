@@ -1,9 +1,13 @@
-# Your Project's Title...
-Your project's description...
+# Liz's Test Edge Delivery Service Project
+This is a test project used for training on the new Edge Delivery Service. Training can be found here: https://solutionpartners.adobe.com/training/learning_program/learningProgram116495.html
 
 ## Environments
 - Preview: [https://main--aem-eds-training--ejsuess.aem.page/](https://main--aem-eds-training--ejsuess.aem.page/)
 - Live: [https://main--aem-eds-training--ejsuess.aem.live/](https://main--aem-eds-training--ejsuess.aem.live/)
+
+## Index representation of pages:
+https://admin.hlx.page/index/ejsuess/aem-eds-training/<branch>/<path>
+Real Example: https://admin.hlx.page/index/ejsuess/aem-eds-training/main/index
 
 ## Installation
 
